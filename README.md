@@ -1,10 +1,6 @@
 
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/j0HjChGV0J44KrrlGv/giphy.gif" width="170"/>
-  <h1>
-    hey there
-    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-  </h1>
+  <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="400"/>
 </div>
 
 ### :woman_technologist: About Me :
@@ -29,6 +25,9 @@ I am a Full Stack Developer from Helsinki <img src="https://media.giphy.com/medi
 ### :open_book: I'm currently learning :
   <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux " width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
+        <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
+    
+    
     
 ---
 
@@ -60,4 +59,9 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+Resources:
+https://giphy.com/
+Dev Icons: [https://github.com/devicons/devicon/](https://github.com/devicons/devicon/tree/master/icons)
+
 -->
