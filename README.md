@@ -33,10 +33,13 @@ I am a Full Stack Developer from Helsinki <img src="https://media.giphy.com/medi
 
 ### :desktop_computer: Projects :
 
-- [To Do List](https://todo-app-zddb.onrender.com/) Build with React using Node + MongoDB backend 
-[Github](https://github.com/hnnav/todo-app)
-- [Country Directory](https://countries-wiki.onrender.com/) React multi-page with API 
-[Github](https://github.com/hnnav/rest-countries-api)
+- [To Do List](https://todo-app-zddb.onrender.com/) 
+  - Build with React using Node + MongoDB backend 
+  - Please give this one a minute to warm up!
+  - [Github](https://github.com/hnnav/todo-app)
+- [Country Directory](https://countries-wiki.onrender.com/) 
+  - React multi-page with API 
+  - [Github](https://github.com/hnnav/rest-countries-api)
 
 ---
 
