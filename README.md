@@ -20,16 +20,14 @@ I am a Full Stack Developer from Helsinki <img src="https://media.giphy.com/medi
 </div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
-
+<!--
 ---
 
 ### :open_book: I'm currently learning :
   <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux " width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
         
-    
-    
-    
+-->    
 ---
 
 ### :desktop_computer: Projects :
