@@ -3,10 +3,10 @@
   <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="400"/>
 </div>
 
-<!--
+
 ### :woman_technologist: About Me :
 I am a Full Stack Developer from Helsinki <img src="https://media.giphy.com/media/ZCraN3pxLJDjICzVC5/giphy.gif" width="30">
--->
+
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
