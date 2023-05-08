@@ -23,7 +23,7 @@ I am a Full Stack Developer from Helsinki <img src="https://media.giphy.com/medi
 </div>
 
 ---
-
+<!--
 ### :desktop_computer: Projects :
 
 - [To Do List](https://todo-app-zddb.onrender.com/) 
@@ -35,7 +35,7 @@ I am a Full Stack Developer from Helsinki <img src="https://media.giphy.com/medi
   - [Github](https://github.com/hnnav/rest-countries-api)
 
 ---
-
+-->
 ### :fire: My Stats :
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=hnnav&theme=dark&background=000000)](https://git.io/streak-stats)
